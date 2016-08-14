@@ -1,5 +1,6 @@
 # CHEEP
-## CHangeset Extraction Engine Process
+
+**CH**angeset **E**xtraction **E**ngine **P**rocess
 
 ![OWL](https://raw.github.com/pnorman/cheep/master/owl.png)
 
