@@ -1,0 +1,3 @@
+lxml
+git+git://github.com/osmcode/pyosmium.git@v2.8.0
+psycopg2
